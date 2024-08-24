@@ -1,4 +1,7 @@
 # Geospatial-Analytics-to-understand-Social-Determinants-of-Health
+
+All related project data and files can be accessed [here](https://drive.google.com/drive/folders/1PfdQ9qTtDnq0E_FhmBpQ4XDntJsdf6GL?usp=sharing)
+
 ## Project Motivation
 The project aimed to analyze Social Determinants of Health (SDOH) within Allegheny County, with a specific focus on children and youth. By leveraging geospatial analytics and GIS tools, we sought to understand how various environmental and social factors, such as air quality, recreational spaces, and access to nutritious food, impact health outcomes. The goal was to identify health disparities and recommend actionable interventions for government agencies and nonprofits to improve the well-being of communities in the county.
 
@@ -47,4 +50,3 @@ The analysis was structured into three primary components:
 - Implement community health initiatives focusing on improving air quality and providing better access to recreational spaces in identified high-risk areas.
 - Develop policies to regulate the density of fast food establishments in vulnerable neighborhoods.
 - Use the Health Index as a guide to allocate resources and plan new community health centers in the most affected regions, particularly in the Garfield neighborhood.
-
